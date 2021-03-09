@@ -1,5 +1,6 @@
 # [configurable-http-proxy](https://github.com/jupyterhub/configurable-http-proxy)
 
+**Fork of official configurable-http-proxy** with `configurable-http-proxy-redis-backend` installed
 [![npm](https://img.shields.io/npm/v/configurable-http-proxy.svg?logo=npm)](https://www.npmjs.com/package/configurable-http-proxy)
 [![Docker Build status](https://img.shields.io/docker/cloud/build/jupyterhub/configurable-http-proxy?logo=docker&label=build)](https://hub.docker.com/r/jupyterhub/configurable-http-proxy/tags)
 [![GitHub Workflow Status - Test](https://img.shields.io/github/workflow/status/jupyterhub/configurable-http-proxy/Test?logo=github&label=tests)](https://github.com/jupyterhub/configurable-http-proxy/actions)
