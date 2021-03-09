@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "commander": "~7.1.0",
+    "configurable-http-proxy-redis-backend": "^0.1.6",
     "http-proxy": "^1.18.1",
     "lynx": "^0.2.0",
     "strftime": "~0.10.0",
